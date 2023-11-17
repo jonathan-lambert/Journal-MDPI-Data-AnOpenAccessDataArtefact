@@ -54,4 +54,4 @@ Factor   | Type | Description | Label | Values |
 "Capacitance	|	Numerical	|	The overall system capacitance	|	C	|	[	4.5E+00	 …	3.5E+03	]	\\|"
 "Amp hours	|	Numerical	|	The total current hours	|	Ah	|	[	1.2E-03	 …	9.7E-01	]	\\|"
 "Energy consumed	|	Numerical	|	The total energy consumed in Joules	|	energyJ	|	[	2.2E+01	 …	1.7E+04	]	\\|"
-"Energy consumed	|	Numerical	|	The total energy consumed in Watt-hours	|	energyWh	|	[	6.2E-03	 …	4.8E+00	]	\\|"![image](https://github.com/jonathan-lambert/Journal-MDPI-Data-AnOpenAccessDataArtefact/assets/57734342/123b1839-3b00-4ae2-bbbb-34079a6c1173)
+"Energy consumed	|	Numerical	|	The total energy consumed in Watt-hours	|	energyWh	|	[	6.2E-03	 …	4.8E+00	]	|"
