@@ -5,7 +5,9 @@ This paper describes an extensive dataset encompassing a rich collection of vari
 
 The richness of the variables included within the data artefact introduced within this paper will allow for more nuanced assessments of JRE JVM performance beyond the typical null hypothesis significance testing techniques and, in particular, beyond single factor analysis. The data artefact offers numerous opportunities to analyse the JRE JVM from a multi-factor perspective, as well as from a multi-variant perspective. The dataset variables will allow interested researchers to undertake analyses regarding its principal component structure; the dataset can be used to construct multiple regression models and has enough observations to build machine learning models such as neural networks.
 
+The characteristics of all categorical variables are detailed in the following table:
 
+The characteristics of all numerical variables are detailed in the following table:
 
 Factor   | Type | Description | Label | Values |
 ---|---|---|---|---|
